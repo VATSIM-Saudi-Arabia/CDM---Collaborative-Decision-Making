@@ -1,0 +1,11 @@
+# OEJN Capacity and Flow Rate Settings
+# Format: CAP_TYPE:VALUE:EVENT_VALUE
+
+# Normal Departure Capacity (35 departures per hour)
+DEP_RATE:35:25
+
+# Low Visibility Operations Capacity (25 departures per hour)
+LVO_RATE:25:15
+
+# Minimum time separation buffer in seconds between departures on the same runway
+MIN_DEP_INTERVAL:102:144
