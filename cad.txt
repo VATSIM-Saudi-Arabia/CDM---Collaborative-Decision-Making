@@ -1,0 +1,4 @@
+## Maximum hourly landing capacity
+# OEJD FIR
+OEJN,35
+OERK,35
